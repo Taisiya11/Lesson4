@@ -4,6 +4,7 @@
 public class ChoiceScale {
     ChoiceScale() {
     }
+
     public void choiceConvector() {
         EnteringValues enteringValues = new EnteringValues();
         enteringValues.degree();
