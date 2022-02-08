@@ -8,6 +8,7 @@ public class Worker extends PremiumCalculation {
         super();
     }
 
+    @Override
     public double expectPremium() {
         premium = 1000000 * 0.1;
         return premium;
