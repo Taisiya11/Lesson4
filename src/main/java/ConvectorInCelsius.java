@@ -10,6 +10,7 @@ public class ConvectorInCelsius extends UnitConvector {
 
     /**
      * Переоперделенный метод конвертации
+     *
      * @param degree градусы по шкале Фаренгейта
      * @return градусы по шкале Цельсия
      */
